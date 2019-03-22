@@ -1,9 +1,7 @@
 body {
-    color:rgb(16, 18, 173);
-    background-color: rgb(197, 12, 12);
+    color: white;
+    background-color: black;
+    font-family: 'Sacramento', cursive;
     font-size: 150%;
-    font-family: 'Satisfy', cursive;
     margin: 5em 25%;
-
-
-}
+  }
